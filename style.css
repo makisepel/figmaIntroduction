@@ -113,6 +113,10 @@ body {
     text-align: left;
 }
 
+#link {
+    cursor : pointer;
+}
+
 .InputTextWrapper {
     font-size: 20px;
 }
